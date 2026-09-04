@@ -14,7 +14,7 @@ from telebot import types
 
 load_dotenv()
 
-TOKEN = "8992278433:AAGqOx5k0R2MXUcydzySgyrZcv4WWZqPdz4"
+TOKEN = "8871839496:AAE9CJcwx0oJLxLgplhhQZdL9xCSvIAhXL0"
 ADMIN_ID = 8992278433  # ✅ SENİN ID'N!
 
 BOT_NAME = "EmrePanel77Bot"
