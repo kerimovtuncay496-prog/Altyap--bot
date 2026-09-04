@@ -14,10 +14,10 @@ from telebot import types
 
 load_dotenv()
 
-TOKEN = "8871839496:AAE9CJcwx0oJLxLgplhhQZdL9xCSvIAhXL0"  # ✅ YENİ TOKEN (DOĞRU)
+TOKEN = "8501106486:AAGFKuy6v0aAbZyvc_6QnBWgR4uIHU_a3ZI"  # ✅ YENİ TOKEN (DOĞRU)
 ADMIN_ID = 8992278433  # ⚠️ BURAYA KENDİ TELEGRAM ID'NI YAZ (Örnek: 123456789)
 
-BOT_NAME = "EmrePanel77Bot"
+BOT_NAME = "EmreSxrguPanel77bot"
 VERSION = "2.0.0"
 
 # Premium fiyatları
